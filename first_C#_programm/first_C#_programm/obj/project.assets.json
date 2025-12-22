@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicop\\Desktop\\C# Training ghub\\first_C#_programm\\first_C#_programm\\first_C#_programm.csproj",
+      "projectUniqueName": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\first_C#_programm\\first_C#_programm\\first_C#_programm.csproj",
       "projectName": "first_C#_programm",
-      "projectPath": "C:\\Users\\nicop\\Desktop\\C# Training ghub\\first_C#_programm\\first_C#_programm\\first_C#_programm.csproj",
+      "projectPath": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\first_C#_programm\\first_C#_programm\\first_C#_programm.csproj",
       "packagesPath": "C:\\Users\\nicop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicop\\Desktop\\C# Training ghub\\first_C#_programm\\first_C#_programm\\obj\\",
+      "outputPath": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\first_C#_programm\\first_C#_programm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

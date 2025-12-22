@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nicop\\Desktop\\C# Training ghub\\first_C#_programm\\",
+  "WorkspaceRootPath": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\first_C#_programm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B7E0F2C-8F13-4694-B9BD-2CC6BB564D97}|first_C#_programm\\first_C#_programm.csproj|c:\\users\\nicop\\desktop\\c# training ghub\\first_c#_programm\\first_c#_programm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B7E0F2C-8F13-4694-B9BD-2CC6BB564D97}|first_C#_programm\\first_C#_programm.csproj|c:\\users\\nicop\\desktop\\c# learning ghub\\first_c#_programm\\first_c#_programm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B7E0F2C-8F13-4694-B9BD-2CC6BB564D97}|first_C#_programm\\first_C#_programm.csproj|solutionrelative:first_c#_programm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nicop\\Desktop\\C# Training ghub\\first_C#_programm\\first_C#_programm\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\first_C#_programm\\first_C#_programm\\Program.cs",
               "RelativeDocumentMoniker": "first_C#_programm\\Program.cs",
-              "ToolTip": "C:\\Users\\nicop\\Desktop\\C# Training ghub\\first_C#_programm\\first_C#_programm\\Program.cs",
+              "ToolTip": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\first_C#_programm\\first_C#_programm\\Program.cs",
               "RelativeToolTip": "first_C#_programm\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-19T21:51:46.86Z",
               "EditorCaption": ""
