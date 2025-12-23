@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("first_C#_programm")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("loops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f5a98c0ce4d5612455de8eb1399745555be7f9c")]
-[assembly: System.Reflection.AssemblyProductAttribute("first_C#_programm")]
-[assembly: System.Reflection.AssemblyTitleAttribute("first_C#_programm")]
+[assembly: System.Reflection.AssemblyProductAttribute("loops")]
+[assembly: System.Reflection.AssemblyTitleAttribute("loops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.
