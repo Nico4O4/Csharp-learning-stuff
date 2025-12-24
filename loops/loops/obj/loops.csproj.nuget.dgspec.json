@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicop\\Desktop\\C# Training ghub\\loops\\loops\\loops.csproj": {}
+    "C:\\Users\\nicop\\Desktop\\C# learning ghub\\loops\\loops\\loops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicop\\Desktop\\C# Training ghub\\loops\\loops\\loops.csproj": {
+    "C:\\Users\\nicop\\Desktop\\C# learning ghub\\loops\\loops\\loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicop\\Desktop\\C# Training ghub\\loops\\loops\\loops.csproj",
+        "projectUniqueName": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\loops\\loops\\loops.csproj",
         "projectName": "loops",
-        "projectPath": "C:\\Users\\nicop\\Desktop\\C# Training ghub\\loops\\loops\\loops.csproj",
+        "projectPath": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\loops\\loops\\loops.csproj",
         "packagesPath": "C:\\Users\\nicop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicop\\Desktop\\C# Training ghub\\loops\\loops\\obj\\",
+        "outputPath": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\loops\\loops\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

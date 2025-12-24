@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nicop\\Desktop\\C# Training ghub\\loops\\",
+  "WorkspaceRootPath": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\loops\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EA34600-6330-4446-B88E-31F9489B7EB3}|loops\\loops.csproj|c:\\users\\nicop\\desktop\\c# training ghub\\loops\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EA34600-6330-4446-B88E-31F9489B7EB3}|loops\\loops.csproj|c:\\users\\nicop\\desktop\\c# learning ghub\\loops\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EA34600-6330-4446-B88E-31F9489B7EB3}|loops\\loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nicop\\Desktop\\C# Training ghub\\loops\\loops\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\loops\\loops\\Program.cs",
               "RelativeDocumentMoniker": "loops\\Program.cs",
-              "ToolTip": "C:\\Users\\nicop\\Desktop\\C# Training ghub\\loops\\loops\\Program.cs",
+              "ToolTip": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\loops\\loops\\Program.cs",
               "RelativeToolTip": "loops\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T17:12:31.212Z",
               "EditorCaption": ""
