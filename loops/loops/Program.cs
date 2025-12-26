@@ -9,21 +9,31 @@ using System.Data;
 // grösser > als / MUSS mindest unterschied 1+ haben also 101 sonst false
 // grösser >= oder gleich als / wie / kann exakt gleich 100 sein sonst false
 
-int second_value = 900; //prüf value
+int bigger_value = 100; 
 
-for (int start_value = 10;   start_value <= second_value;    start_value++)
-{
-    if (second_value >= 100)
-    {
-        Console.WriteLine("if ausgeführt: " + start_value);
+for (int smaller_value = 90;   smaller_value < bigger_value;    smaller_value++)
+{//KLAMMER FOR LOOP
+    
+    /*LOOP startet NUR bei TRUE - Problem: 
+     * smaller_value < bigger_value ist der check
+     * der positiv sein MUSS für if / else checks
+     */
+
+    if (smaller_value < bigger_value)
+    {//INTERNER CHECK NACHDEM PARAMETER 2 TRUE IST BEI DER FOR LOOP
+        Console.WriteLine("if -- " + smaller_value);
     }
 
-    else if (second_value == 101)
-    {
-        Console.WriteLine("elif ausgeführt: " + start_value);
-    }//wie printe ich das? logik problem
     
-}
+    
+    else
+    {//INTERNER CHECK NACHDEM PARAMETER 2 TRUE IST BEI DER FOR LOOP
+        Console.WriteLine("else -- " + smaller_value);
+    }
+    
+
+
+}// KLAMMER FOR LOOP
 
 
 
@@ -38,4 +48,7 @@ for (int start_value = 10;   start_value <= second_value;    start_value++)
 *EXTRA PRÜFEN von start value?? zb. start value < 400? 300?
 *mindestens 100->kommt vor in überprüfung per for loop -> print
 *
+*fazit: es war ein parameter logik problem da parameter 2 bei der for loopp immer true sein
+*muss damit der inhalt ausgeführt wird und if else usw den wert überhaupt nochmals checken kann!
+*gebraucht: 3 tage ohne KI hilfe 
 */
