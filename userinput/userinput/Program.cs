@@ -1,5 +1,7 @@
 ﻿using System.Diagnostics;
 
+
+
 Console.Write("Enter first number >> ");
 
 int FirstNumber = Convert.ToInt32(Console.ReadLine());
@@ -15,6 +17,10 @@ final = SecondNumber + FirstNumber; //nnummern übergabe an final
 
 Console.WriteLine("Your Nurmbers + are: " + final);
 
+
+
+
+
 //Calculator coded in C# by: Nico4O4
 /*--ideen-- 
  * mehrere zahlen
@@ -22,4 +28,5 @@ Console.WriteLine("Your Nurmbers + are: " + final);
  * vergleichs test < oder >
  * in while true setzen damit es nicht schliesst nach ergebnis
  * fehler abfangen
+ * 
  */
