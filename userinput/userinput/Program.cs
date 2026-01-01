@@ -1,21 +1,25 @@
 ﻿using System.Diagnostics;
 
 
+while (true)
+{
+    Console.Write("Enter first number >> ");
 
-Console.Write("Enter first number >> ");
+    int FirstNumber = Convert.ToInt32(Console.ReadLine());//eingabe vom user geespeichert
 
-int FirstNumber = Convert.ToInt32(Console.ReadLine());
+    Console.Write("Enter second number >> ");
 
-Console.Write("Enter second number >> ");
-
-int SecondNumber = Convert.ToInt32(Console.ReadLine());
-
-
-int final; // für speicherung gesamt ergebnis
-final = SecondNumber + FirstNumber; //nnummern übergabe an final
+    int SecondNumber = Convert.ToInt32(Console.ReadLine());//eingabe vom user geespeichert
 
 
-Console.WriteLine("Your Nurmbers + are: " + final);
+    int final; // für speicherung gesamt ergebnis
+    final = SecondNumber + FirstNumber; //nnummern übergabe an final
+
+
+    Console.WriteLine("Your Nurmbers + are: " + final);
+
+}
+
 
 
 
@@ -26,7 +30,7 @@ Console.WriteLine("Your Nurmbers + are: " + final);
  * mehrere zahlen
  * meherer operatoren
  * vergleichs test < oder >
- * in while true setzen damit es nicht schliesst nach ergebnis
+ * in while true setzen damit es nicht schliesst nach ergebnis // done 01.01.2026 || 18:42 Uhr
  * fehler abfangen
- * 
+ * okay tbh das ist noch zu schwer
  */
