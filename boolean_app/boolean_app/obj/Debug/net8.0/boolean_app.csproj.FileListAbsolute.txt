@@ -1,0 +1,15 @@
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\bin\Debug\net8.0\boolean_app.exe
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\bin\Debug\net8.0\boolean_app.deps.json
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\bin\Debug\net8.0\boolean_app.runtimeconfig.json
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\bin\Debug\net8.0\boolean_app.dll
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\bin\Debug\net8.0\boolean_app.pdb
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\obj\Debug\net8.0\boolean_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\obj\Debug\net8.0\boolean_app.AssemblyInfoInputs.cache
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\obj\Debug\net8.0\boolean_app.AssemblyInfo.cs
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\obj\Debug\net8.0\boolean_app.csproj.CoreCompileInputs.cache
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\obj\Debug\net8.0\boolean_app.sourcelink.json
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\obj\Debug\net8.0\boolean_app.dll
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\obj\Debug\net8.0\refint\boolean_app.dll
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\obj\Debug\net8.0\boolean_app.pdb
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\obj\Debug\net8.0\boolean_app.genruntimeconfig.cache
+C:\Users\nicop\Desktop\C# learning ghub\boolean_app\boolean_app\obj\Debug\net8.0\ref\boolean_app.dll
