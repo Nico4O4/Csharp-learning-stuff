@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("boolean_app")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SortNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf1b0f09c56d719ac984e1c7678a890542a4fa8d")]
-[assembly: System.Reflection.AssemblyProductAttribute("boolean_app")]
-[assembly: System.Reflection.AssemblyTitleAttribute("boolean_app")]
+[assembly: System.Reflection.AssemblyProductAttribute("SortNumbers")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SortNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

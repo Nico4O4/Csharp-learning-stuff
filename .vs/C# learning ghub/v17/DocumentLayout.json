@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicop\\Desktop\\C# learning ghub\\boolean_app\\boolean_app\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:boolean_app\\boolean_app\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicop\\Desktop\\C# learning ghub\\first_C#_programm\\first_C#_programm\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first_C#_programm\\first_C#_programm\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicop\\Desktop\\C# learning ghub\\loops\\loops\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loops\\loops\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicop\\Desktop\\C# learning ghub\\userinput\\userinput\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:userinput\\userinput\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,14 +32,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\boolean_app\\boolean_app\\Program.cs",
+              "RelativeDocumentMoniker": "boolean_app\\boolean_app\\Program.cs",
+              "ToolTip": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\boolean_app\\boolean_app\\Program.cs",
+              "RelativeToolTip": "boolean_app\\boolean_app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T20:19:39.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\first_C#_programm\\first_C#_programm\\Program.cs",
+              "RelativeDocumentMoniker": "first_C#_programm\\first_C#_programm\\Program.cs",
+              "ToolTip": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\first_C#_programm\\first_C#_programm\\Program.cs",
+              "RelativeToolTip": "first_C#_programm\\first_C#_programm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T20:19:36.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\loops\\loops\\Program.cs",
+              "RelativeDocumentMoniker": "loops\\loops\\Program.cs",
+              "ToolTip": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\loops\\loops\\Program.cs",
+              "RelativeToolTip": "loops\\loops\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T20:18:16.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\userinput\\userinput\\Program.cs",
               "RelativeDocumentMoniker": "userinput\\userinput\\Program.cs",
               "ToolTip": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\userinput\\userinput\\Program.cs",
               "RelativeToolTip": "userinput\\userinput\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T16:57:48.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T20:18:09.288Z"
             }
           ]
         }

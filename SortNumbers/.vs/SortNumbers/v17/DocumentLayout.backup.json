@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\SortNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{317D751B-7CED-466E-8067-D7140343611E}|SortNumbers\\SortNumbers.csproj|c:\\users\\nicop\\desktop\\c# learning ghub\\sortnumbers\\sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317D751B-7CED-466E-8067-D7140343611E}|SortNumbers\\SortNumbers.csproj|solutionrelative:sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\SortNumbers\\SortNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SortNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\nicop\\Desktop\\C# learning ghub\\SortNumbers\\SortNumbers\\Program.cs",
+              "RelativeToolTip": "SortNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T20:21:28.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

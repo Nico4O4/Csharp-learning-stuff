@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\loops",
-    "\\loops\\loops",
-    "\\userinput",
-    "\\userinput\\userinput"
+    "\\boolean_app\\boolean_app"
   ],
-  "SelectedNode": "\\userinput\\userinput\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
