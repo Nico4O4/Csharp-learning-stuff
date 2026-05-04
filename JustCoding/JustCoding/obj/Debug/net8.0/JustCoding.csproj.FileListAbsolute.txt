@@ -1,0 +1,15 @@
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\obj\Debug\net8.0\JustCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\obj\Debug\net8.0\JustCoding.AssemblyInfoInputs.cache
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\obj\Debug\net8.0\JustCoding.AssemblyInfo.cs
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\obj\Debug\net8.0\JustCoding.csproj.CoreCompileInputs.cache
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\obj\Debug\net8.0\JustCoding.sourcelink.json
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\bin\Debug\net8.0\JustCoding.exe
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\bin\Debug\net8.0\JustCoding.deps.json
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\bin\Debug\net8.0\JustCoding.runtimeconfig.json
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\bin\Debug\net8.0\JustCoding.dll
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\bin\Debug\net8.0\JustCoding.pdb
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\obj\Debug\net8.0\JustCoding.dll
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\obj\Debug\net8.0\refint\JustCoding.dll
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\obj\Debug\net8.0\JustCoding.pdb
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\obj\Debug\net8.0\JustCoding.genruntimeconfig.cache
+C:\Users\nicop\Desktop\C# learning\JustCoding\JustCoding\obj\Debug\net8.0\ref\JustCoding.dll

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SortNumbers")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("JustCoding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09b2365921020b6f10429e1a7355e0c5d26ce38e")]
-[assembly: System.Reflection.AssemblyProductAttribute("SortNumbers")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SortNumbers")]
+[assembly: System.Reflection.AssemblyProductAttribute("JustCoding")]
+[assembly: System.Reflection.AssemblyTitleAttribute("JustCoding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.
