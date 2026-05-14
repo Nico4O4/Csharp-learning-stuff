@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JustCoding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09b2365921020b6f10429e1a7355e0c5d26ce38e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e5dff08d6bbea0ceceee5672ec21a4389600c81")]
 [assembly: System.Reflection.AssemblyProductAttribute("JustCoding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JustCoding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

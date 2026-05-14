@@ -1,32 +1,27 @@
-﻿using System.Diagnostics;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-public class Program
+
+class KatzenEigenschaften
 {
-    public static void Main(string[] lol)
-    {//Main = startpunkt darinn auf klassen zugreifen / alles unter ordnen
-        
-        Console.WriteLine("Hallooo");
-        
-        RandomClass.Ausführer(lol);
-    }
+    private string geraeusch_happy;
+    private string geraeusch_neugierig;
+    //felder (variablen für daten speicherung)
     
-}
-
-public class RandomClass
-{
-    private static void class2(string[] lol)//private functions kann man nicht ausserhalb dieser class nutzen
+    public KatzenEigenschaften()
+    {//Konstruktor
+        geraeusch_happy = "FrrFrrr";
+        geraeusch_neugierig = "Meow?";
+    }//aktuell hardcoded später variablen nutzen um es dynamisch zu halten
+    
+    
+    static void Main() //Methode
     {
-        Console.WriteLine("Hallo aus der class 2");
+        KatzenEigenschaften obj0 = new KatzenEigenschaften(); //erstellt ein objekt nutzt Konstruktor
+
+        Console.WriteLine("Eigenschaften von meiner Katze");
+        Console.WriteLine(obj0.geraeusch_happy + " (schnurrt gerne)");
+        Console.WriteLine(obj0.geraeusch_neugierig + " (Miaut wenn neugierig)");
     }
-
-
-    public static void Ausführer(string[] lol)
-    {
-        class2(lol);
-    }
-
-
 }
-
-
